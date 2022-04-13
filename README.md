@@ -1,6 +1,3 @@
-# Flask Summary
-
-** Partial was originally from https://github.com/dmmiller612/lecture-summarizer.git **
 
 Features
 --------
@@ -14,7 +11,7 @@ Installation In A Nutshell (on localhost)
 --------------------------
  1. clone this project to your local disk
  ```
-  git clone https://github.com/Quan25/flask-summary.git
+  git clone https://github.com/herre0/EssayScoringSystem.git
  ```
 
  2. Install [Flask](https://flask.palletsprojects.com/en/1.1.x/installation/#installation)
